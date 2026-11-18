@@ -2,14 +2,14 @@
 
 Este repositorio contiene los scripts en Python desarrollados para interactuar programáticamente con la API REST del Network Controller en Cisco Packet Tracer (TP Integrador Redes). 
 
-## Requisitos y Entorno Virtual 
+# Requisitos y Entorno Virtual 
 1. Crear y activar el entorno virtual de Python: 
 bash
 python3 -m venv venv
 source venv/bin/activate # En Linux/macOS
-# venv\\Scripts\\activate # En Windows
+venv\\Scripts\\activate # En Windows
 
-Instalar las dependencias necesarias:
+# Instalar las dependencias necesarias:
 pip install requests tabulate
 
 * 01_get-ticket.py: Solicita el ticket de autenticación (serviceTicket) enviando usuario y contraseña.
