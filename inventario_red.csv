@@ -1,0 +1,26 @@
+CATEGORIA,HOSTNAME,TIPO,IP,MAC,ESTADO_PING
+Dispositivo de Red,BORDER,Router,198.51.100.2,0009.7C9D.DA20,Managed
+Dispositivo de Red,N4,MultiLayerSwitch,172.16.99.30,0006.2A22.922B,Managed
+Dispositivo de Red,N1,MultiLayerSwitch,172.16.99.6,000C.85DD.2703,Managed
+Dispositivo de Red,N3,Router,172.16.99.22,0002.1640.CB1B,Managed
+Dispositivo de Red,N2,MultiLayerSwitch,172.16.99.14,0001.43D6.7610,Managed
+Dispositivo de Red,ACC,Router,172.16.99.38,0030.A331.3279,Managed
+Dispositivo de Red,SW1,Switch,172.16.99.25,00E0.8F00.4A18,Managed
+Dispositivo de Red,,,198.51.100.1,0060.3E79.4437,Wrong credential
+Dispositivo de Red,SW4,Switch,172.16.99.9,000D.BDD5.23AE,Managed
+Dispositivo de Red,SW3,Switch,172.16.99.1,0007.ECB9.5A80,Managed
+Dispositivo de Red,SW0,Switch,172.16.99.33,000A.F3C2.7C52,Managed
+Dispositivo de Red,SW2,Switch,172.16.99.17,0002.4A67.6C5E,Managed
+Host / Cliente,PC1,Pc,172.16.30.3,0007.EC53.A4AD,SUCCESS
+Host / Cliente,Laptop0,Laptop,172.16.50.13,0004.9A32.1AA1,SUCCESS
+Host / Cliente,PC5,Pc,172.16.20.11,0030.F272.0C06,SUCCESS
+Host / Cliente,HTTP,Server,203.0.113.10,000C.85AE.41AD,SUCCESS
+Host / Cliente,PC4,Pc,172.16.10.1,000A.4101.00C4,SUCCESS
+Host / Cliente,PC2,Pc,172.16.50.11,0060.2F4C.6766,SUCCESS
+Host / Cliente,PC3,Pc,172.16.50.12,000C.CFBE.94C5,SUCCESS
+Host / Cliente,PC3,Pc,172.16.50.13,000C.CFBE.94C5,SUCCESS
+Host / Cliente,PC0,Pc,172.16.30.1,0090.2BC4.19CD,SUCCESS
+Host / Cliente,DNS,Server,172.16.40.10,0001.C771.1A93,SUCCESS
+Host / Cliente,FTP,Server,172.16.40.11,000A.F368.645B,SUCCESS
+Host / Cliente,NTP,Server,172.16.40.12,0009.7C16.307C,SUCCESS
+Host / Cliente,PC6,Pc,172.16.20.12,00D0.FF74.A586,SUCCESS
